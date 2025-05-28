@@ -1,4 +1,4 @@
-# <kbd>![image info](https://bricks.kosuha606.ru/images/logo.jpg)</kbd> Brick game simulator
+# Brick game simulator
 
 
 
